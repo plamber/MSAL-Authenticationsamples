@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AAD-React-AspNetCore", "AAD-React-AspNetCore\AAD-React-AspNetCore.csproj", "{C47AAA40-7B49-4F77-9C0B-1669AA35EDCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{182CE45B-E7CD-4EF4-BB7E-B058ACFE3F85}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C47AAA40-7B49-4F77-9C0B-1669AA35EDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47AAA40-7B49-4F77-9C0B-1669AA35EDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47AAA40-7B49-4F77-9C0B-1669AA35EDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47AAA40-7B49-4F77-9C0B-1669AA35EDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4516728C-C058-4942-9E95-36A9DDBF788F}
+	EndGlobalSection
+EndGlobal
