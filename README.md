@@ -1,5 +1,5 @@
-# MSAL-Authenticationsamples
-Scope of this repository is to create some AAD integration samples
+# How do I authenticate with Azure AD and MSAL
+The aim of this repository is to collect samples for Azure AD authentication with the MSAL libraries.
 
-# AAD-React-AspNetCore
-ASP.NET Core 3.0 project with React SPA and MSAl.JS authentication.
+# MSAL-Authenticationsamples
+This [Solution](https://github.com/plamber/MSAL-Authenticationsamples/tree/master/MSAL-Authenticationsamples) contains individual projects and authentication scenarios.
